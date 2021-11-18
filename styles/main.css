@@ -1,0 +1,26 @@
+/*selector {
+    property: value;
+} */
+
+body {
+    background-image: url("../media/bg.png");
+    background-repeat: repeat-y;
+}
+
+header {
+    background: white;
+    margin: 0px 20%;
+}
+section {
+    background: white;
+    margin: 0px 20%;
+    list-style-type: none;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+.navTxT {
+    margin: auto;
+}

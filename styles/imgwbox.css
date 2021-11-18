@@ -1,0 +1,7 @@
+.imgbox {
+    margin: auto;
+}
+.imgboxs {
+    display: flex;
+    flex-direction: row;
+}
